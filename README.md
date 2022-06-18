@@ -1,6 +1,6 @@
 # Bài toán nhận diện chữ số viết tay và phân khúc khách hàng
 1. Nhận diện chữ số viết tay
-- Mô tả bài toán: Sử dụng dữ liệu chữ số đầu vào đã được gán nhãn, xây dựng mô hình để phân loại các chữ số từ 0-9
+- Mô tả bài toán: Sử dụng dữ liệu chữ số đầu vào đã được gán nhãn, xây dựng mô hình để phân loại các chữ số từ 0-9.
 - Mô hình sử dụng: Naive Bayes
 - Dữ liệu đầu vào: https://ndquy.github.io/assets/docs/digitdata.zip
 2. Phân khúc khách hàng
